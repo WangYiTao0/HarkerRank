@@ -25,5 +25,23 @@
     <ClCompile Include="ss_test2.cpp">
       <Filter>C++</Filter>
     </ClCompile>
+    <ClCompile Include="ss_test3.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Attribute Parser.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Operator.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="time conversion.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="Game of Stones.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
+    <ClCompile Include="class and object.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
