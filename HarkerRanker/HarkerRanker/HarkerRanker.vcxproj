@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2DArray.cpp" />
     <ClCompile Include="Attribute Parser.cpp" />
     <ClCompile Include="box it.cpp" />
     <ClCompile Include="class and object.cpp" />

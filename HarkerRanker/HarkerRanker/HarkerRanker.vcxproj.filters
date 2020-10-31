@@ -55,5 +55,8 @@
     <ClCompile Include="sherlockAndAnagrams.cpp">
       <Filter>C++</Filter>
     </ClCompile>
+    <ClCompile Include="2DArray.cpp">
+      <Filter>C++</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
